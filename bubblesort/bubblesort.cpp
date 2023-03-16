@@ -93,3 +93,18 @@ void unsorted() {
     cout << "==========================" << endl; // Output kelayar
 }
 
+int main() {
+
+
+
+    input();      // Memanggil  read() dari class BubbleSort
+    unsorted();   // Memanggil data yang tidak berurut
+
+    bubbleSortArray();  // Memanggil  bubbleSortArray() dari class BubbleSort
+
+    display();   // Memanggil  display() dari class BubbleSort
+
+    return 0;
+
+}
+
