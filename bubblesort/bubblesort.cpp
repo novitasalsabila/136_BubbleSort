@@ -88,3 +88,8 @@ void bubbleSortArray() {    // Method untuk mengurutkan array dengan metode bubb
 
 }
 
+void unsorted() {
+    cout << endl;                                 // Output garis kosong
+    cout << "==========================" << endl; // Output kelayar
+}
+
