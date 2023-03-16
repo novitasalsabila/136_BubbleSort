@@ -27,5 +27,13 @@ void input() {        // Method untuk input
 
     }
 
+    cout << endl;                            // Output baris kosong
+
+    cout << "===================" << endl;   // Output ke layar
+
+    cout << "Masukan Elemen Array" << endl;  // Output ke layar
+
+    cout << "===================" << endl;   // Output ke layar
+
 }
 
